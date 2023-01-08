@@ -31,7 +31,5 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicktziaros&repo=random_walk)](https://github.com/NickTziaros/random_walk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicktziaros&repo=PSO-Algorithm-in-a-Robotic-Swarm)](https://github.com/NickTziaros/PSO-Algorithm-in-a-Robotic-Swarm)
 
 
