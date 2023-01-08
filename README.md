@@ -1,7 +1,8 @@
 
 <div align="center">
-  
+
 ![](https://visitor-badge.glitch.me/badge?page_id=nicktziaros)
+[![Gmail Badge](https://img.shields.io/badge/-tziaros.nick@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tziaros.nick@gmail.com "Connect via Email") 
 [![Linkedin: Nick Tziaros](https://img.shields.io/badge/-NickTziaros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in//](https://linkedin.com/in/nikos-tziaros))](https://linkedin.com/in/nikos-tziaros)
 [![GitHub NickTziaros](https://img.shields.io/github/followers/NickTziaros?label=follow&style=social)](https://github.com/NickTziaros)
 
