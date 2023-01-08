@@ -20,8 +20,6 @@
 
 - :star_struck:	Passionate about **Robotic Swarms**
 
-- 📫 How to reach me **tziaros.nick@gmail.com**
-
 - ⚡ Fun fact **I play Basketball**
 
 
