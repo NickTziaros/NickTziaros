@@ -20,7 +20,7 @@
 
 - :star_struck:	Passionate about **Robotic Swarms**
 
-- ⚡ Fun fact **I play Basketball**
+- ⚡ Fun fact: **I play Basketball 🏀**
 
 
 <h3 align="left">Languages and Tools:</h3>
