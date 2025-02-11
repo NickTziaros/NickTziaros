@@ -14,13 +14,7 @@
   <img src="https://64.media.tumblr.com/330efd28a9a46fdd22ef2c92d380579c/1238c93ea5e09a8a-1c/s250x400/658dd1f16af2097875510ebc5aa5cd656379dbcb.gif" width="240" height="240" />
 </div>
 
-- 🔭 I’m currently working on [Random Walk in Robotic Swarms](https://github.com/NickTziaros/random_walk)
 
-- 🌱 I’m currently learning **ROS2**
-
-- :star_struck:	Passionate about **Robotic Swarms**
-
-- ⚡ Fun fact: **I play Basketball 🏀**
 
 
 <h3 align="left">Languages and Tools:</h3>
