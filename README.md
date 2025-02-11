@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hello, I'm Nick</h1>
-<h3 align="center">A Robotics Engineer currently doing my masters in Autonomous Systems at DTU</h3>
+<h3 align="center">MSc Autonomous Systems</h3>
 <div align="center">
   <img src="https://64.media.tumblr.com/330efd28a9a46fdd22ef2c92d380579c/1238c93ea5e09a8a-1c/s250x400/658dd1f16af2097875510ebc5aa5cd656379dbcb.gif" width="240" height="240" />
 </div>
