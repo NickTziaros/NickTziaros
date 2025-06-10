@@ -23,7 +23,6 @@
 
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=215foxscptv4dkhlbqzk2vu2q)](https://open.spotify.com/user/215foxscptv4dkhlbqzk2vu2q)
 
 
 
